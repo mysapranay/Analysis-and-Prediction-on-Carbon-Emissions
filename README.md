@@ -94,6 +94,5 @@ Explore all the visualizations and analysis through this interactive dashboard:
 ---
 
 ## Future Enhancements
-- Integrate machine learning models to predict future CO2 emission trends.
 - Incorporate additional datasets like energy consumption and population growth for deeper insights.
 - Develop real-time dashboards for monitoring CO2 emissions globally.
